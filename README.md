@@ -1,7 +1,7 @@
 # CS455_Full_SourceCode
 This is the README file for delivable #3 for CS 455 - Artificial Intelligence
 
-This project uses machine learning to classify images of plates as either clean or dirty. It was developed for the CS455 course and applies a convolutional neural network (CNN) using TensorFlow and Keras.
+This project uses machine learning to classify images of plates as either clean or dirty. It was developed for the CS455 course and applies a convolutional neural network (CNN) using torch, torch vision, scikit-learn, and numpy for the code libraries.
 
 The dataset used in this project was downloaded from Kaggle and must be manually added before running the notebook. Once the dataset is downloaded, the user should place the image files into folders named "clean" and "dirty" inside a folder called "data". The notebook has this structure when loading and processing the images.
 
